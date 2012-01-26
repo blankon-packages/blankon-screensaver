@@ -7,7 +7,7 @@ Build-Depends: debhelper (>= 4), cdbs
 
 Package: blankon-desktop
 Architecture: any
-Recommends: blankon-panel, blankon-session, gnome-session, gnome-control-center
+Recommends: blankon-panel, blankon-session, gnome-session, gnome-control-center, lightdm, network-manager-gnome
 Description: The BlankOn desktop system
  This package depends on all of the packages in the BlankOn desktop system
  .
