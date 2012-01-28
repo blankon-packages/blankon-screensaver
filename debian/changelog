@@ -1,3 +1,9 @@
+blankon-desktop (8.00.23) rote; urgency=low
+
+  * Added blankon-branding-gimp, blankon-branding-inkscaper, blankon-branding-libreoffice, blankon-branding-exaile, blankon-branding-pidgin 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 28 Jan 2012 23:02:03 +0700
+
 blankon-desktop (8.00.22) rote; urgency=low
 
   * Replace blankon-meta
