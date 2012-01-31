@@ -1,3 +1,9 @@
+blankon-desktop (8.00.27) rote; urgency=low
+
+  * Added menu 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 31 Jan 2012 22:00:20 +0700
+
 blankon-desktop (8.00.26) rote; urgency=low
 
   * Added gnome-format, nautilus-script-manager, nautilus-actions, nautilus-ideviceinfo, libparted0 
