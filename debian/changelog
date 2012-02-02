@@ -1,3 +1,9 @@
+blankon-desktop (8.00.28) rote; urgency=low
+
+  *  Added bcmwl-kernel-source
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 02 Feb 2012 09:44:04 +0700
+
 blankon-desktop (8.00.27) rote; urgency=low
 
   * Added menu 
