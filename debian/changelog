@@ -1,3 +1,9 @@
+blankon-desktop (8.00.30) lucid; urgency=low
+
+  * Remove yelp, ombilin-themes 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 04 Feb 2012 11:08:15 +0700
+
 blankon-desktop (8.00.29) rote; urgency=low
 
   * Added blankon-tutorial
