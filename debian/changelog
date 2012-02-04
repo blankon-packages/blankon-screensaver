@@ -1,3 +1,9 @@
+blankon-desktop (8.00.32) rote; urgency=low
+
+  * Added indonesian-fonts in debian/control section recommends
+
+ -- Adnan Kashogi <adnan@linuz.web.id>  Sat, 04 Feb 2012 20:11:19 +0700
+
 blankon-desktop (8.00.31) rote; urgency=low
 
   * Added ombilin-theme
