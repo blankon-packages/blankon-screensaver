@@ -1,6 +1,12 @@
+blankon-desktop (8.00.31) rote; urgency=low
+
+  * Added ombilin-theme
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 04 Feb 2012 11:31:34 +0700
+
 blankon-desktop (8.00.30) rote; urgency=low
 
-  * Remove yelp, ombilin-themes 
+  * Remove yelp, ombilin-theme
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 04 Feb 2012 11:09:26 +0700
 
