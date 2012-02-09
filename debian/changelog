@@ -1,3 +1,9 @@
+blankon-desktop (8.00.33) rote; urgency=low
+
+  * Added scim-indonesian-tables, frimware-atheros, frimware-bnx2, frimware-bnx2x, frimware-brcm80211, frimware-intelwimax, frimware-ipw2x00, frimware-ivtv, frimware-iwlwifi, frimware-libertas, frimware-linux-nonfree, frimware-linux, frimware-myricom, frimware-netxen, frimware-glogic, frimware-ralink, frimware-realtek
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 09 Feb 2012 07:01:02 +0700
+
 blankon-desktop (8.00.32) rote; urgency=low
 
   * Added indonesian-fonts in debian/control section recommends
