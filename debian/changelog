@@ -1,3 +1,9 @@
+blankon-desktop (8.00.34) rote; urgency=low
+
+  * Change: scim-tables-indonesian & ttf-indonesian
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 10 Feb 2012 11:08:48 +0700
+
 blankon-desktop (8.00.33) rote; urgency=low
 
   * Added scim-indonesian-tables, frimware-atheros, frimware-bnx2, frimware-bnx2x, frimware-brcm80211, frimware-intelwimax, frimware-ipw2x00, frimware-ivtv, frimware-iwlwifi, frimware-libertas, frimware-linux-nonfree, frimware-linux, frimware-myricom, frimware-netxen, frimware-glogic, frimware-ralink, frimware-realtek
