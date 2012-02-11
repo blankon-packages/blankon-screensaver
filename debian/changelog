@@ -1,3 +1,9 @@
+blankon-desktop (8.00.37) rote; urgency=low
+
+  * Remove ombilin-theme
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 11 Feb 2012 18:03:04 +0700
+
 blankon-desktop (8.00.36) rote; urgency=low
 
   * remove exaile
