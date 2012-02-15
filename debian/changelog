@@ -1,3 +1,9 @@
+blankon-desktop (8.00.38) rote; urgency=low
+
+  * Remove blankon-branding-gimp, blankon-branding-inkscape 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 15 Feb 2012 17:33:21 +0700
+
 blankon-desktop (8.00.37) rote; urgency=low
 
   * Remove ombilin-theme
