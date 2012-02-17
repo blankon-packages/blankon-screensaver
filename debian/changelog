@@ -1,3 +1,9 @@
+blankon-desktop (8.00.41) rote; urgency=low
+
+  * Remove libreoffice-l10n-id, gcc
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 18 Feb 2012 05:39:48 +0700
+
 blankon-desktop (8.00.40) rote; urgency=low
 
   * Remove firmware-ipw2x00, firmware-ivtv
