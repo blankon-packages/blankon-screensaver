@@ -1,3 +1,9 @@
+blankon-desktop (8.00.42) rote; urgency=low
+
+  * Remove transmision-gtk 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 18 Feb 2012 09:28:22 +0700
+
 blankon-desktop (8.00.41) rote; urgency=low
 
   * Remove libreoffice-l10n-id, gcc
