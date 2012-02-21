@@ -1,3 +1,9 @@
+blankon-desktop (8.00.43) rote; urgency=low
+
+  * Added google-pacman
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 21 Feb 2012 11:20:08 +0000
+
 blankon-desktop (8.00.42) rote; urgency=low
 
   * Remove transmision-gtk 
