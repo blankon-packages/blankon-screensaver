@@ -1,3 +1,9 @@
+blankon-desktop (8.00.45) rote; urgency=low
+
+  * rebuild
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 22 Feb 2012 22:00:25 +0700
+
 blankon-desktop (8.00.43) rote; urgency=low
 
   * Added google-pacman
