@@ -1,3 +1,9 @@
+blankon-desktop (8.00.49) rote; urgency=low
+
+  * Added evolution
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 03 Mar 2012 10:27:09 +0700
+
 blankon-desktop (8.00.48) rote; urgency=low
 
   * Fix rote-conetxtual-desktop-theme
