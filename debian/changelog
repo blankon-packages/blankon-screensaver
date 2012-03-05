@@ -1,3 +1,9 @@
+blankon-desktop (8.00.51) rote; urgency=low
+
+  * Change: rote language pack to blankon language pack
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 05 Mar 2012 14:54:08 +0700
+
 blankon-desktop (8.00.50) rote; urgency=low
 
   * Added rote-language-pack-id 
