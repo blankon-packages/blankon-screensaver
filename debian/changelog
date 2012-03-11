@@ -1,3 +1,14 @@
+blankon-desktop (8.00.52) rote; urgency=low
+
+  * Added manokwari
+  * Added linux-headers-3.2.0-2-amd64
+  * Added linux-headers-3.2.0-2-pae
+  * Remove blankon-panel
+  * Remove linux-headers-3.2.0-1-amd64
+  * Remove linux-headers-3.2.0-1-pae
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 11 Mar 2012 11:36:34 +0700
+
 blankon-desktop (8.00.51) rote; urgency=low
 
   * Change: rote language pack to blankon language pack
