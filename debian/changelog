@@ -1,3 +1,12 @@
+blankon-desktop (8.00.54) rote; urgency=low
+
+  * Added linux-headers-3.2.0-1-amd64
+  * Added linux-headers-3.2.0-1-pae
+  * Remove linux-headers-3.2.0-2-amd64
+  * Remove linux-headers-3.2.0-2-pae 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 11 Mar 2012 21:15:19 +0700
+
 blankon-desktop (8.00.53) rote; urgency=low
 
   * Remove rote-language-pack-id
