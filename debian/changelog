@@ -1,3 +1,9 @@
+blankon-desktop (8.00.63) rote; urgency=low
+
+  * blankon-metacity-configuration, blankon-branding-gnome-control-center, blankon-branding-lightdm 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 29 Mar 2012 21:06:35 +0700
+
 blankon-desktop (8.00.62) rote; urgency=low
 
   * Remove gnome-tweak-tool 
