@@ -1,3 +1,9 @@
+blankon-desktop (8.00.68) rote; urgency=low
+
+  * Added cheese, blankon-settings-gtk-3.0
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 16 Apr 2012 17:55:56 +0700
+
 blankon-desktop (8.00.67) rote; urgency=low
 
   * remove blankon-menus
