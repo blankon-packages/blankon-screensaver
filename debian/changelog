@@ -1,3 +1,9 @@
+blankon-desktop (8.00.69) rote; urgency=low
+
+  * Added list
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 16 Apr 2012 12:40:32 +0000
+
 blankon-desktop (8.00.68) rote; urgency=low
 
   * Added cheese, blankon-settings-gtk-3.0
