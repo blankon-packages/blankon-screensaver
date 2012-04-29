@@ -1,3 +1,9 @@
+blankon-desktop (8.00.73) rote; urgency=low
+
+  * remove blankon-branding-lightdm
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 29 Apr 2012 21:19:50 +0700
+
 blankon-desktop (8.00.72) rote; urgency=low
 
   * Added system-config-printer
