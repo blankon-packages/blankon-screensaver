@@ -1,3 +1,9 @@
+blankon-desktop (8.00.74) rote; urgency=low
+
+  * Remove language-selector-gnome
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 04 May 2012 03:21:51 +0000
+
 blankon-desktop (8.00.73) rote; urgency=low
 
   * remove blankon-branding-lightdm
