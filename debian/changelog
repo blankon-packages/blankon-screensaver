@@ -1,3 +1,9 @@
+blankon-desktop (8.00.75) rote; urgency=low
+
+  * Added gdebi	
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 06 May 2012 22:15:55 +0700
+
 blankon-desktop (8.00.74) rote; urgency=low
 
   * Remove language-selector-gnome
