@@ -1,3 +1,9 @@
+blankon-desktop (8.00.81) rote; urgency=low
+
+  * Added pidgin-libnotify
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 13 May 2012 04:54:57 +0000
+
 blankon-desktop (8.00.80) rote; urgency=low
 
   * Remove blankon-branding-gimp
