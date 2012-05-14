@@ -1,3 +1,9 @@
+blankon-desktop (8.00.82) rote; urgency=low
+
+  * Added net-tools
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 14 May 2012 17:12:01 +0700
+
 blankon-desktop (8.00.81) rote; urgency=low
 
   * Added pidgin-libnotify
