@@ -1,3 +1,9 @@
+blankon-desktop (8.00.83) rote; urgency=low
+
+  * Added linux-image-3.2.0-2-amd64 linux-image-3.2.0-2-486
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 14 May 2012 17:22:43 +0700
+
 blankon-desktop (8.00.82) rote; urgency=low
 
   * Added net-tools
