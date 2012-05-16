@@ -1,3 +1,9 @@
+blankon-desktop (8.00.86) rote; urgency=low
+
+  * Added libreoffice-gtk
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 16 May 2012 11:59:45 +0000
+
 blankon-desktop (8.00.85) rote; urgency=low
 
   * Added libreoffice-l10n-id
