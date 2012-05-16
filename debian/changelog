@@ -1,3 +1,9 @@
+blankon-desktop (8.00.84) rote; urgency=low
+
+  * Remove firmware-intelwimax firmware-myricom firmware-netxen 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 16 May 2012 13:25:44 +0700
+
 blankon-desktop (8.00.83) rote; urgency=low
 
   * Added linux-image-3.2.0-2-amd64 linux-image-3.2.0-2-486
