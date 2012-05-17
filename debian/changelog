@@ -1,3 +1,9 @@
+blankon-desktop (8.00.87) rote; urgency=low
+
+  * Added blueman
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 17 May 2012 11:53:27 +0700
+
 blankon-desktop (8.00.86) rote; urgency=low
 
   * Added libreoffice-gtk
