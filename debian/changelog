@@ -1,3 +1,10 @@
+blankon-desktop (8.00.88) rote; urgency=low
+
+  * Added bash-comletion #1067
+  * blankon-locales (support nusantara language)
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 18 May 2012 21:55:28 +0700
+
 blankon-desktop (8.00.87) rote; urgency=low
 
   * Added blueman
