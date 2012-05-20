@@ -1,3 +1,10 @@
+blankon-desktop (8.00.91) rote; urgency=low
+
+  * Remove blueman, libreoffice-gtk
+  * Added libreoffice-gtk3
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 20 May 2012 10:45:46 +0700
+
 blankon-desktop (8.00.90) rote; urgency=low
 
   * added usbutils, blankon-language-pack-id, rote-language-pack-id
