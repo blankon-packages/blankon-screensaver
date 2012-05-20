@@ -1,3 +1,9 @@
+blankon-desktop (8.00.93) rote; urgency=low
+
+  * Added network-manager
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 20 May 2012 22:28:46 +0700
+
 blankon-desktop (8.00.92) rote; urgency=low
 
   * Remove blankon-branding-gnome-bluetooth
