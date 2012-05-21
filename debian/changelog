@@ -1,3 +1,9 @@
+blankon-desktop (8.00.94) rote; urgency=low
+
+  * Added evince
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 21 May 2012 07:13:19 +0700
+
 blankon-desktop (8.00.93) rote; urgency=low
 
   * Added network-manager
