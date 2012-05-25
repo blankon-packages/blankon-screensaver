@@ -1,3 +1,9 @@
+blankon-desktop (8.00.96) rote; urgency=low
+
+  * Added notify-osd
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 25 May 2012 18:57:02 +0700
+
 blankon-desktop (8.00.95) rote; urgency=low
 
   * Added network-manager-gnome
