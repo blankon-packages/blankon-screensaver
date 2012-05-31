@@ -1,3 +1,9 @@
+blankon-desktop (8.00.98) rote; urgency=low
+
+  * Added blankon-tutorial
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 31 May 2012 21:47:41 +0000
+
 blankon-desktop (8.00.97) rote; urgency=low
 
   * Added  broadcom-sta-dkms, blankon-branding-system-config-printer
