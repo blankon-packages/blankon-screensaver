@@ -1,3 +1,9 @@
+blankon-desktop (8.00.102) rote; urgency=low
+
+  * refresh dependency
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 05 Jun 2012 01:39:27 +0700
+
 blankon-desktop (8.00.101) rote; urgency=low
 
   * refresh dependency
