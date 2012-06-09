@@ -1,3 +1,9 @@
+blankon-desktop (8.00.104) rote; urgency=low
+
+  * Typo space
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 09 Jun 2012 12:00:02 +0700
+
 blankon-desktop (8.00.103) rote; urgency=low
 
   * refresh dependency
