@@ -1,3 +1,9 @@
+blankon-desktop (8.00.107) rote; urgency=low
+
+  * Kernel i386 to 3.2.0-2
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 26 Jun 2012 08:36:21 +0700
+
 blankon-desktop (8.00.106) rote; urgency=low
 
   * Change kernel to 3.2.0-3
