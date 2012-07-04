@@ -1,3 +1,9 @@
+blankon-desktop (8.00.109) rote; urgency=low
+
+  * Added blankon-branding-system-config-printer
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 04 Jul 2012 18:23:56 +0700
+
 blankon-desktop (8.00.108) rote; urgency=low
 
   * Kernel i386 to 3.2.0-3
