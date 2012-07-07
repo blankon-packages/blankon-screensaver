@@ -1,3 +1,10 @@
+blankon-desktop (8.00.111) rote; urgency=low
+
+  * Added lshw-gtk lshw
+  * Remove xorg-server-vmware
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 07 Jul 2012 19:12:29 +0700
+
 blankon-desktop (8.00.110) rote; urgency=low
 
   * Conflicts: gnome-desktop-data
