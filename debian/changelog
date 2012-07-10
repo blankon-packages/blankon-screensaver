@@ -1,3 +1,9 @@
+blankon-desktop (8.00.112) rote; urgency=low
+
+  * Added systemd
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 10 Jul 2012 20:08:44 +0700
+
 blankon-desktop (8.00.111) rote; urgency=low
 
   * Added lshw-gtk lshw
