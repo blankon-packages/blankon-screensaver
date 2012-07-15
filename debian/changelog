@@ -1,3 +1,10 @@
+blankon-desktop (8.00.115) rote; urgency=low
+
+  * Added blankon-wallpapers
+  * Remove xserver-xorg-video-nouveau
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 15 Jul 2012 10:42:58 +0700
+
 blankon-desktop (8.00.114) rote; urgency=low
 
   * Remove systemd	
