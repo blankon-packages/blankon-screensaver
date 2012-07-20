@@ -1,3 +1,9 @@
+blankon-desktop (8.00.116) rote;  urgency=low
+
+  * Remove lshw lshw-gtk
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 21 Jul 2012 05:05:11 +0700
+
 blankon-desktop (8.00.115) rote; urgency=low
 
   * Added blankon-wallpapers
