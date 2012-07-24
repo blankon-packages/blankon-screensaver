@@ -1,3 +1,9 @@
+blankon-desktop (8.00.117) rote; urgency=low
+
+  * Remove xserver-xorg-video-savage,  xserver-xorg-video-siliconmotion,
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 24 Jul 2012 10:45:24 +0700
+
 blankon-desktop (8.00.116) rote;  urgency=low
 
   * Remove lshw lshw-gtk
