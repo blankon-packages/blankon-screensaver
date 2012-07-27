@@ -1,3 +1,9 @@
+blankon-desktop (8.00.118) rote; urgency=low
+
+  * Remove  xserver-xorg-video-tdfx, xserver-xorg-video-trident,  xserver-xorg-video-ark, xserver-xorg-video-apm, xserver-xorg-input-evdev
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 28 Jul 2012 05:03:55 +0700
+
 blankon-desktop (8.00.117) rote; urgency=low
 
   * Remove xserver-xorg-video-savage,  xserver-xorg-video-siliconmotion,
