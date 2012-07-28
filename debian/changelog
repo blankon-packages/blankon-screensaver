@@ -1,3 +1,9 @@
+blankon-desktop (8.00.119) rote; urgency=low
+
+  * Remove blankon-tutorial
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 28 Jul 2012 10:52:04 +0700
+
 blankon-desktop (8.00.118) rote; urgency=low
 
   * Remove  xserver-xorg-video-tdfx, xserver-xorg-video-trident,  xserver-xorg-video-ark, xserver-xorg-video-apm, xserver-xorg-input-evdev
