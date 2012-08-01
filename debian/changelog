@@ -1,3 +1,9 @@
+blankon-desktop (8.00.121) rote; urgency=low
+
+  * Remove xserver-video-server-$vendor
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 01 Aug 2012 23:28:05 +0700
+
 blankon-desktop (8.00.120) rote; urgency=low
 
   * Remove nautilis-actions, libparted0
