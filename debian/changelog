@@ -1,3 +1,9 @@
+blankon-desktop (8.00.122) rote; urgency=low
+
+  * Added libreoffice-gtk
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 03 Aug 2012 10:30:49 +0700
+
 blankon-desktop (8.00.121) rote; urgency=low
 
   * Remove xserver-video-server-$vendor
