@@ -1,3 +1,9 @@
+blankon-desktop (8.00.123) rote; urgency=low
+
+  * Remove evolution
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 04 Aug 2012 13:27:37 +0700
+
 blankon-desktop (8.00.122) rote; urgency=low
 
   * Added libreoffice-gtk
