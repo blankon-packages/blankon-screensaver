@@ -1,3 +1,9 @@
+blankon-desktop (8.00.127) rote; urgency=low
+
+  * Remove gucharmap
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 06 Aug 2012 18:35:35 +0700
+
 blankon-desktop (8.00.126) rote; urgency=low
 
   * Remove broadcom-sta-dkms
