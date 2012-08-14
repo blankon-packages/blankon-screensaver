@@ -1,3 +1,9 @@
+blankon-desktop (8.00.129) rote; urgency=low
+
+  * Remove linux-header from blankon-desktop
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 14 Aug 2012 22:26:19 +0700
+
 blankon-desktop (8.00.128) rote; urgency=low
 
   * Added blankon-kernel-headers at control
