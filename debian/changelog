@@ -1,3 +1,9 @@
+blankon-desktop (8.00.130) rote; urgency=low
+
+  * Fix name linux-headers
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 15 Aug 2012 21:14:51 +0700
+
 blankon-desktop (8.00.129) rote; urgency=low
 
   * Remove linux-header from blankon-desktop
