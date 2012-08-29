@@ -1,3 +1,9 @@
+blankon-desktop (9.00.01) suroboyo; urgency=low
+
+  * Arch amd64 i386 armhf
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 29 Aug 2012 13:22:54 +0700
+
 blankon-desktop (8.01.01) rote-updates; urgency=low
 
   * Added blankon-tutorial, roadcom-sta-dkms
