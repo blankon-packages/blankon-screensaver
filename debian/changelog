@@ -1,3 +1,10 @@
+blankon-desktop (9.00.02) suroboyo; urgency=low
+
+  * Remove braodcom-sta-common
+  * Added libreofice-draw
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 04 Sep 2012 07:20:47 +0700
+
 blankon-desktop (9.00.01) suroboyo; urgency=low
 
   * Arch amd64 i386 armhf
