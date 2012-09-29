@@ -1,3 +1,9 @@
+blankon-desktop (9.00.05) suroboyo; urgency=low
+
+  * Update linux version 3.2.0-4 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 29 Sep 2012 06:59:17 +0700
+
 blankon-desktop (9.00.04) suroboyo; urgency=low
 
   * Remove blankon-tutorial
