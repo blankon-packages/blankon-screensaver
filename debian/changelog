@@ -1,3 +1,9 @@
+blankon-desktop (9.00.06) suroboyo; urgency=low
+
+  * Remove libreoffice
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 13 Oct 2012 02:21:50 +0700
+
 blankon-desktop (9.00.05) suroboyo; urgency=low
 
   * Update linux version 3.2.0-4 
