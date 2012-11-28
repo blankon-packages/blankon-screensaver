@@ -1,3 +1,9 @@
+blankon-desktop (9.00.07) suroboyo; urgency=low
+
+  * added gnome-sushi as quick previewer for nautilus
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 28 Nov 2012 16:17:11 +0700
+
 blankon-desktop (9.00.06) suroboyo; urgency=low
 
   * Remove libreoffice
