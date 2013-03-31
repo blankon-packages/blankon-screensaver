@@ -1,3 +1,9 @@
+blankon-desktop (9.00.12) suroboyo; urgency=low
+
+  * Drop gnome-sushi 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 31 Mar 2013 08:56:23 +0700
+
 blankon-desktop (9.00.11) suroboyo; urgency=low
 
   * Drop blankon-session
