@@ -1,3 +1,9 @@
+blankon-desktop (9.00.15) suroboyo; urgency=low
+
+  * Arch any
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 12 Apr 2013 19:53:31 +0700
+
 blankon-desktop (9.00.14) suroboyo; urgency=low
 
   * Added arch=armhf
