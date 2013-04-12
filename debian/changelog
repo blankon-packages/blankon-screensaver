@@ -1,3 +1,9 @@
+blankon-desktop (9.00.14) suroboyo; urgency=low
+
+  * Added arch=armhf
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 12 Apr 2013 19:47:31 +0700
+
 blankon-desktop (9.00.13) suroboyo; urgency=low
 
   * Drop rote-language-pack* 
