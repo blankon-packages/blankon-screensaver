@@ -1,3 +1,9 @@
+blankon-desktop (9.00.17) suroboyo; urgency=low
+
+  * Change: Kernel to 3.8-2
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 22 May 2013 21:13:09 +0700
+
 blankon-desktop (9.00.16) suroboyo; urgency=low
 
   * Change: Kernel to 3.8-1
