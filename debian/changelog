@@ -1,3 +1,9 @@
+blankon-desktop (9.00.18) suroboyo; urgency=low
+
+  * Added Conflicts appstream-index
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 23 May 2013 11:27:57 +0700
+
 blankon-desktop (9.00.17) suroboyo; urgency=low
 
   * Change: Kernel to 3.8-2
