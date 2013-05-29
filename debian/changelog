@@ -1,3 +1,9 @@
+blankon-desktop (9.00.19) suroboyo; urgency=low
+
+  * Added depends lightdm-webkit-greeter manokwari-theme-greeter
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Wed, 29 May 2013 13:33:48 +0700
+
 blankon-desktop (9.00.18) suroboyo; urgency=low
 
   * Added Conflicts appstream-index
