@@ -1,3 +1,9 @@
+blankon-desktop (9.00.23) suroboyo; urgency=low
+
+  * Added xfce4-power-manager, xfce4-power-manager-plugins, xfce4-power-manager-data, xfce4-battery-plugin (temporary)
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 22 Jul 2013 22:27:05 +0700
+
 blankon-desktop (9.00.22) suroboyo; urgency=low
 
   * Change: Kernel to 3.10-1
