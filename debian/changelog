@@ -1,3 +1,9 @@
+blankon-desktop (9.00.24) suroboyo; urgency=low
+
+  *  Change icon-sound to volumeicon-alsa
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 28 Jul 2013 11:36:13 +0700
+
 blankon-desktop (9.00.23) suroboyo; urgency=low
 
   * Added xfce4-power-manager, xfce4-power-manager-plugins, xfce4-power-manager-data, xfce4-battery-plugin (temporary)
