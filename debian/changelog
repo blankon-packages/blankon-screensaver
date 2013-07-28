@@ -1,3 +1,9 @@
+blankon-desktop (9.00.25) suroboyo; urgency=low
+
+  * Added Conflicts xfce4-power-manager, xfce4-power-manager-plugins, xfce4-power-manager-data, xfce4-battery-plugin
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 28 Jul 2013 05:23:48 +0000
+
 blankon-desktop (9.00.24) suroboyo; urgency=low
 
   *  Change icon-sound to volumeicon-alsa
