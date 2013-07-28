@@ -1,9 +1,15 @@
+blankon-desktop (9.00.27) suroboyo; urgency=low
+
+  * Conflicts pa-applet
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 28 Jul 2013 19:54:10 +0700
+
 blankon-desktop (9.00.26) suroboyo; urgency=low
 
   * depends remove pa-applet 
   * restore xfce4-power-manager to depends
-
- -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 28 Jul 2013 12:54:35 +0700
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 28 Jul 2013 19:54:03 +0700
 
 blankon-desktop (9.00.25) suroboyo; urgency=low
 
