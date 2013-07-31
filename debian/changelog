@@ -1,3 +1,10 @@
+blankon-desktop (9.00.28) suroboyo; urgency=low
+
+  * Remove list
+  * Added hplip to depends
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 31 Jul 2013 22:43:15 +0700
+
 blankon-desktop (9.00.27) suroboyo; urgency=low
 
   * Conflicts pa-applet
