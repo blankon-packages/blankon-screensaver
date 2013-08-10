@@ -1,3 +1,9 @@
+blankon-desktop (9.00.30) suroboyo; urgency=low
+
+  * Update kernel to 3.10-2
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 10 Aug 2013 09:40:33 +0700
+
 blankon-desktop (9.00.28) suroboyo; urgency=low
 
   * Remove list
