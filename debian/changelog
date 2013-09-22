@@ -1,3 +1,9 @@
+blankon-desktop (9.00.34) suroboyo; urgency=low
+
+  * Change chromium-browser to chromium
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 23 Sep 2013 05:55:26 +0700
+
 blankon-desktop (9.00.33) suroboyo; urgency=low
 
   * Added evolution
