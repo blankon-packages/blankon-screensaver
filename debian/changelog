@@ -1,3 +1,9 @@
+blankon-desktop (9.00.33) suroboyo; urgency=low
+
+  * Added evolution
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 22 Sep 2013 20:20:19 +0700
+
 blankon-desktop (9.00.32) suroboyo; urgency=low
 
   * Added boot-repair
