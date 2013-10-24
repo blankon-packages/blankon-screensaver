@@ -18,9 +18,17 @@ Description: The BlankOn desktop system
 Package: blankon-kernel-headers
 Architecture: i386 amd64
 Depends: linux-headers-3.10-3-amd64 [amd64], linux-headers-3.10-3-686-pae [i386], linux-image-3.10-3-amd64 [amd64], linux-image-3.10-3-686-pae [i386]
-Description: The BlankOn desktop system
+Description: The BlankOn kernel
  This package depends on all of the packages in the BlankOn kernel headers desktop system
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
+Package: blankon-office
+Architecture: i386 amd64
+Depends: libreoffice-writer, libreoffice-calc, libreoffice-writer, libreoffice-impress
+Description: The BlankOn Office Suite
+ This package depends on all of the packages in the BlankOn kernel headers desktop system
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
