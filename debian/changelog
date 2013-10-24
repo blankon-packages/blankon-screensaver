@@ -1,3 +1,15 @@
+blankon-desktop (9.00.42) suroboyo; urgency=low
+
+  * remove :
+    - xfce4-power-manager
+    - xfce4-power-manager-plugins
+    - xfce4-power-manager-data
+    - xfce4-battery-plugin
+  * adding :
+    - battery-icon
+
+ -- mijortsa <mijortsa@toshi>  Thu, 24 Oct 2013 21:11:47 +0700
+
 blankon-desktop (9.00.41) suroboyo; urgency=low
 
   * Add blankon-office
