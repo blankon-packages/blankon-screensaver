@@ -1,3 +1,9 @@
+blankon-desktop (9.00.44) suroboyo; urgency=low
+
+  * Chamge to Kernel 3.11-1
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 28 Oct 2013 19:29:16 +0700
+
 blankon-desktop (9.00.43) suroboyo; urgency=low
 
   * Confilicts : 
