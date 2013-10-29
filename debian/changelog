@@ -1,3 +1,9 @@
+blankon-desktop (9.00.45) suroboyo; urgency=low
+
+  * Changet to kernel 3.10-3
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 29 Oct 2013 14:13:38 +0000
+
 blankon-desktop (9.00.44) suroboyo; urgency=low
 
   * Chamge to Kernel 3.11-1
