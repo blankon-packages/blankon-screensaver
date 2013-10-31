@@ -1,3 +1,9 @@
+blankon-desktop (9.00.50) suroboyo; urgency=low
+
+  * Add libreoffice-gtk3
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 31 Oct 2013 18:26:50 +0700
+
 blankon-desktop (9.00.49) suroboyo; urgency=low
 
   * Add locales-all #1344
