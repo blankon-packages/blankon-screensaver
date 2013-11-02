@@ -1,3 +1,9 @@
+blankon-desktop (9.00.51) suroboyo; urgency=low
+
+  * Change to kernel 3.11-1
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 02 Nov 2013 08:39:43 +0700
+
 blankon-desktop (9.00.50) suroboyo; urgency=low
 
   * Add libreoffice-gtk3
