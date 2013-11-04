@@ -1,3 +1,10 @@
+blankon-desktop (9.00.53) suroboyo; urgency=low
+
+  * Change ti kernel 3.11-1
+  * Add locales
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 04 Nov 2013 22:20:17 +0700
+
 blankon-desktop (9.00.52) suroboyo; urgency=low
 
   * Change to kernel 3.10-3
