@@ -1,3 +1,9 @@
+blankon-desktop (9.00.54) suroboyo; urgency=low
+
+  * remove conflict pa-applet, xfce4-power-manager, xfce4-power-manager-plugins, xfce4-power-manager-data, xfce4-battery-plugin
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Thu, 07 Nov 2013 10:46:38 +0700
+
 blankon-desktop (9.00.53) suroboyo; urgency=low
 
   * Change ti kernel 3.11-1
