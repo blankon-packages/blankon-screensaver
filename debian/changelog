@@ -1,8 +1,14 @@
+blankon-desktop (9.00.56) suroboyo; urgency=low
+
+  * Add policykit-desktop-privileges
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 08 Nov 2013 08:30:17 +0700
+
 blankon-desktop (9.00.55) suroboyo; urgency=low
 
   * Add libreoffice-l10n-id 
-
- -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 07 Nov 2013 16:50:19 +0700
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 08 Nov 2013 08:30:13 +0700
 
 blankon-desktop (9.00.54) suroboyo; urgency=low
 
