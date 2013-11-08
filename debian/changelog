@@ -1,3 +1,11 @@
+blankon-desktop (9.00.57) suroboyo; urgency=low
+
+  * debian/control:
+    - Fix Typo
+    - Added ntfs-3g, ntfsprogs
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Fri, 08 Nov 2013 19:43:15 +0700
+
 blankon-desktop (9.00.56) suroboyo; urgency=low
 
   * Add policykit-desktop-privileges
