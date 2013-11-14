@@ -1,3 +1,9 @@
+blankon-desktop (9.00.58) suroboyo; urgency=low
+
+  * debian/control: added depends mutter
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Thu, 14 Nov 2013 19:49:08 +0700
+
 blankon-desktop (9.00.57) suroboyo; urgency=low
 
   * debian/control:
