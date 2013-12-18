@@ -1,3 +1,10 @@
+blankon-desktop (9.00.65) suroboyo; urgency=medium
+
+  * Added wamerican-insane
+    - Fixed failed configure dictionaries-common in build livedvd
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Wed, 18 Dec 2013 20:52:54 +0700
+
 blankon-desktop (9.00.64) suroboyo; urgency=low
 
   * Drop locales-all
