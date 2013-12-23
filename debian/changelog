@@ -1,3 +1,9 @@
+blankon-desktop (9.00.67) suroboyo; urgency=low
+
+  * Drop blankon-metacity-configuration
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 23 Dec 2013 15:22:15 +0700
+
 blankon-desktop (9.00.66) suroboyo; urgency=low
 
   * Change to Kernel 3.12-1 
