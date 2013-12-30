@@ -1,3 +1,9 @@
+blankon-desktop (9.00.71) suroboyo; urgency=low
+
+  * Add  libpam-systemd 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 30 Dec 2013 08:51:59 +0700
+
 blankon-desktop (9.00.70) suroboyo; urgency=medium
 
   * Update Kernel
