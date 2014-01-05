@@ -1,3 +1,9 @@
+blankon-desktop (9.00.73) suroboyo; urgency=low
+
+  * Drop broadcom-sta-source install from pabrik-cd (#1387) 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 05 Jan 2014 19:59:57 +0700
+
 blankon-desktop (9.00.72) suroboyo; urgency=low
 
   * Add locales-all
