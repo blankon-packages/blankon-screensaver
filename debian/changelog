@@ -1,3 +1,9 @@
+blankon-desktop (9.00.74) suroboyo; urgency=low
+
+  * Add gnome-contacts, fonts-hermit
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Thu, 16 Jan 2014 21:32:33 +0700
+
 blankon-desktop (9.00.73) suroboyo; urgency=low
 
   * Drop broadcom-sta-source install from pabrik-cd (#1387) 
