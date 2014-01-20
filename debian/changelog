@@ -1,3 +1,10 @@
+blankon-desktop (9.00.76) suroboyo; urgency=medium
+
+  * Drop locales-all wamerican-insane iamerican
+  * Added suroboyo-language-pack-ace blankon-locale-gen
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Mon, 20 Jan 2014 22:23:01 +0700
+
 blankon-desktop (9.00.74) suroboyo; urgency=low
 
   * Add gnome-contacts, fonts-hermit
