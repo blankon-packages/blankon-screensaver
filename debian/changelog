@@ -1,3 +1,9 @@
+blankon-desktop (9.00.77) suroboyo; urgency=low
+
+  * Add xserver-xorg-video-nvidia 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 21 Jan 2014 08:14:31 +0700
+
 blankon-desktop (9.00.76) suroboyo; urgency=medium
 
   * Drop locales-all wamerican-insane iamerican
