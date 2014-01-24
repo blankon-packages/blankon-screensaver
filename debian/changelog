@@ -1,3 +1,9 @@
+blankon-desktop (9.00.81) suroboyo; urgency=low
+
+  * Added Gthumb: Photo Manager
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Sat, 25 Jan 2014 02:59:47 +0700
+
 blankon-desktop (9.00.80) suroboyo; urgency=low
 
   * Change to  kernel 3.12-1
