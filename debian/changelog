@@ -1,3 +1,10 @@
+blankon-desktop (9.00.82) suroboyo; urgency=low
+
+  * remove totem and evolution
+  * add vlc and thunderbird
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Wed, 05 Feb 2014 12:20:28 +0700
+
 blankon-desktop (9.00.81) suroboyo; urgency=low
 
   * Added Gthumb: Photo Manager
