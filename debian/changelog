@@ -1,3 +1,10 @@
+blankon-desktop (9.00.83) suroboyo; urgency=low
+
+  * Drop thunderbird
+  * Add evolution
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 06 Feb 2014 09:37:11 +0700
+
 blankon-desktop (9.00.82) suroboyo; urgency=low
 
   * remove totem and evolution
