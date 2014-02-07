@@ -1,3 +1,10 @@
+blankon-desktop (9.00.86) suroboyo; urgency=low
+
+  * remove gnome-maps
+  * Add geoblankon-peta
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Fri, 07 Feb 2014 12:48:20 +0700
+
 blankon-desktop (9.00.85) suroboyo; urgency=low
 
   * Drop policykit 
