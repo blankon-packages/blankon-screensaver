@@ -1,3 +1,9 @@
+blankon-desktop (9.00.87) suroboyo; urgency=low
+
+  * Drop xserver-common, xserver-xorg, xserver-xorg-core, xserver-xorg-input-all 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 08 Feb 2014 20:28:44 +0700
+
 blankon-desktop (9.00.86) suroboyo; urgency=low
 
   * remove gnome-maps
