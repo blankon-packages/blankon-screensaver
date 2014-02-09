@@ -1,3 +1,9 @@
+blankon-desktop (9.00.89) suroboyo; urgency=low
+
+  * Add xserver-xorg-input-all
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 09 Feb 2014 11:30:08 +0700
+
 blankon-desktop (9.00.88) suroboyo; urgency=low
 
   * Add xserver-common, xserver-xorg-core
