@@ -1,3 +1,9 @@
+blankon-desktop (9.00.90) suroboyo; urgency=low
+
+  * Add w32codecs
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 12 Feb 2014 17:40:52 +0700
+
 blankon-desktop (9.00.89) suroboyo; urgency=low
 
   * Add xserver-xorg-input-all
