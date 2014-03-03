@@ -1,3 +1,10 @@
+blankon-desktop (10.00.01) tambora; urgency=low
+
+  * Rebuild for tambora
+  * Change kernel to 3.13-1
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 03 Mar 2014 10:46:09 +0700
+
 blankon-desktop (9.00.90) suroboyo; urgency=low
 
   * Add w32codecs
