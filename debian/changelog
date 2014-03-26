@@ -1,3 +1,9 @@
+blankon-desktop (10.00.03) tambora; urgency=medium
+
+  * Added nautilus-open-terminal
+
+ -- Azis Ws <mijortsa@localhost>  Wed, 26 Mar 2014 17:40:48 +0700
+
 blankon-desktop (10.00.02) tambora; urgency=low
 
   * Drop blankon-branding-gnome-control-center
