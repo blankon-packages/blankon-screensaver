@@ -1,8 +1,18 @@
+blankon-desktop (10.00.04) tambora; urgency=medium
+
+  * Added 
+    - libcanberra-gtk-module 
+    - libcanberra-gtk3-module 
+    - libcanberra-pulse 
+    - sound-theme-freedesktop
+
+ -- Azis Ws <azis.astrojim@surabaya.di.blankon.in>  Tue, 01 Apr 2014 03:30:25 +0000
+
 blankon-desktop (10.00.03) tambora; urgency=medium
 
   * Added nautilus-open-terminal
 
- -- Azis Ws <mijortsa@localhost>  Wed, 26 Mar 2014 17:40:48 +0700
+ -- Azis Ws <azis.astrojim@surabaya.di.blankon.in>  Wed, 26 Mar 2014 17:40:48 +0700
 
 blankon-desktop (10.00.02) tambora; urgency=low
 
