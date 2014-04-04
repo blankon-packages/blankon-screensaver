@@ -1,3 +1,9 @@
+blankon-desktop (10.00.05) tambora; urgency=low
+
+  * Conflicts: libgjs0c 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 04 Apr 2014 14:36:47 +0700
+
 blankon-desktop (10.00.04) tambora; urgency=medium
 
   * Added 
