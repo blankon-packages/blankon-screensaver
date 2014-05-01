@@ -1,3 +1,9 @@
+blankon-desktop (10.00.06) tambora; urgency=low
+
+  * BUMP Kernel to 3.14-1 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 01 May 2014 06:37:55 +0000
+
 blankon-desktop (10.00.05) tambora; urgency=low
 
   * Conflicts: libgjs0c 
