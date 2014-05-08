@@ -1,3 +1,9 @@
+blankon-desktop (10.00.07) tambora; urgency=low
+
+  * DROP gnome-contacts, evolution, volumeicon-alsa (Temporary) 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Thu, 08 May 2014 14:06:28 +0000
+
 blankon-desktop (10.00.06) tambora; urgency=low
 
   * BUMP Kernel to 3.14-1 
