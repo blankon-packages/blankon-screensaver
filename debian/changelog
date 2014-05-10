@@ -1,3 +1,10 @@
+blankon-desktop (10.00.08) tambora; urgency=low
+
+  * blankon-desktop add gnome-contacts, volumeicon-alsa
+  * blankon-office add evolution
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 10 May 2014 21:08:26 +0700
+
 blankon-desktop (10.00.07) tambora; urgency=low
 
   * DROP gnome-contacts, evolution, volumeicon-alsa (Temporary) 
