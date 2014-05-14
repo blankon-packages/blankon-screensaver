@@ -1,3 +1,9 @@
+blankon-desktop (10.00.09) tambora; urgency=low
+
+  * Drop nautilus-open-terminal this features ready on libnautilus-extensions
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Wed, 14 May 2014 21:23:24 +0700
+
 blankon-desktop (10.00.08) tambora; urgency=low
 
   * blankon-desktop add gnome-contacts, volumeicon-alsa
