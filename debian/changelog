@@ -1,3 +1,9 @@
+blankon-desktop (10.00.10) tambora; urgency=low
+
+  * Add: blankon-keyring 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 06 Jun 2014 12:34:11 +0000
+
 blankon-desktop (10.00.09) tambora; urgency=low
 
   * Drop nautilus-open-terminal this features ready on libnautilus-extensions
