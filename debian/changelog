@@ -1,3 +1,9 @@
+blankon-desktop (10.00.11) tambora; urgency=medium
+
+  * Upgrade kernel to 3.14-2 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 27 Jul 2014 04:45:08 +0700
+
 blankon-desktop (10.00.10) tambora; urgency=low
 
   * Add: blankon-keyring 
