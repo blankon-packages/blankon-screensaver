@@ -1,3 +1,9 @@
+blankon-desktop (10.00.13) tambora; urgency=medium
+
+  * blankon-office added libreoffice-style-sifr
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Wed, 24 Sep 2014 02:47:25 +0700
+
 blankon-desktop (10.00.12) tambora; urgency=medium
 
   * Upgrade Kerenel to 3.16-1 

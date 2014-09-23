@@ -26,7 +26,7 @@ Description: The BlankOn kernel
 
 Package: blankon-office
 Architecture: all
-Depends: libreoffice-l10n-id, blankon-branding-libreoffice, libreoffice-writer, libreoffice-calc, libreoffice-writer, libreoffice-impress, libreoffice-style-galaxy, libreoffice-gtk3, libreoffice-gtk
+Depends: libreoffice-l10n-id, blankon-branding-libreoffice, libreoffice-writer, libreoffice-calc, libreoffice-writer, libreoffice-impress, libreoffice-style-galaxy, libreoffice-style-sifr, libreoffice-gtk3, libreoffice-gtk
 Description: The BlankOn Office Suite
  This package depends on all of the packages in the BlankOn Office Suite
  .
