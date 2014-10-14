@@ -1,3 +1,9 @@
+blankon-desktop (10.00.16) tambora; urgency=medium
+
+  * Changet to kernel 3.16-2 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 14 Oct 2014 13:22:09 +0700
+
 blankon-desktop (10.00.15) tambora; urgency=medium
 
   * Changes xfce-power-manager to cbatticon
