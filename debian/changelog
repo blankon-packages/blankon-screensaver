@@ -1,3 +1,9 @@
+blankon-desktop (10.00.17) tambora; urgency=medium
+
+  * Add samba
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Fri, 17 Oct 2014 13:29:38 +0700
+
 blankon-desktop (10.00.16) tambora; urgency=medium
 
   * Changet to kernel 3.16-3
