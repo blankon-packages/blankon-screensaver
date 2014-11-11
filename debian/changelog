@@ -1,3 +1,9 @@
+blankon-desktop (10.00.18) tambora; urgency=low
+
+  * Changes to kernel 3.16-4 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 11 Nov 2014 14:32:58 +0000
+
 blankon-desktop (10.00.17) tambora; urgency=medium
 
   * Add samba
@@ -6,7 +12,7 @@ blankon-desktop (10.00.17) tambora; urgency=medium
 
 blankon-desktop (10.00.16) tambora; urgency=medium
 
-  * Changet to kernel 3.16-3
+  * Changes to kernel 3.16-3
 
  -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 14 Oct 2014 13:22:09 +0700
 
