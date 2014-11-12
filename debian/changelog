@@ -1,3 +1,9 @@
+blankon-desktop (10.00.20) tambora; urgency=low
+
+  * Fix typo kernel version
+
+ -- Rahman Yusri Aftian <aftian@alynne.blankonlinux.or.id>  Wed, 12 Nov 2014 12:17:39 +0700
+
 blankon-desktop (10.00.19) tambora; urgency=low
 
   * Chanes kernel to 3.16.0-4 
