@@ -1,3 +1,9 @@
+blankon-desktop (10.00.21) tambora; urgency=medium
+
+  * Added : freemind
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Mon, 22 Dec 2014 09:32:04 +0700
+
 blankon-desktop (10.00.20) tambora; urgency=low
 
   * Fix typo kernel version
