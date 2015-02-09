@@ -1,3 +1,9 @@
+blankon-desktop (10.00.22) tambora; urgency=medium
+
+  * Drop gnome-contacts 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Mon, 09 Feb 2015 11:50:55 +0700
+
 blankon-desktop (10.00.21) tambora; urgency=medium
 
   * Added : freemind
