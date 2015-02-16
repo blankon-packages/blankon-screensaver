@@ -1,3 +1,10 @@
+blankon-desktop (10.00.23) tambora; urgency=medium
+
+  * Add : slim
+  * Remove : lightdm
+
+ -- Syai Mif<syaimif@di.blankon.in>  Mon, 16 Feb 2015 12:26:29 +0700
+
 blankon-desktop (10.00.22) tambora; urgency=medium
 
   * Drop gnome-contacts 
