@@ -1,3 +1,9 @@
+blankon-desktop (10.00.24) tambora; urgency=medium
+
+  * Change slim to lightdm
+
+ -- Syai Mif <syaimif@di.blankon.in>  Wed, 18 Mar 2015 10:35:57 +0700
+
 blankon-desktop (10.00.23) tambora; urgency=medium
 
   * Add : slim
