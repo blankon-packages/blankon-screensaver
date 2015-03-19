@@ -1,3 +1,9 @@
+blankon-desktop (10.00.25) tambora; urgency=medium
+
+  * Add package : lightdm-webkit-greeter and manokwari-theme-greeter
+
+ -- Syai Mif <syaimif@di.blankon.in>  Thu, 19 Mar 2015 08:55:51 +0700
+
 blankon-desktop (10.00.24) tambora; urgency=medium
 
   * Change slim to lightdm
