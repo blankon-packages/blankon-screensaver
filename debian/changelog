@@ -1,3 +1,9 @@
+blankon-desktop (10.00.26) tambora; urgency=medium
+
+  * Remove mutter
+
+ -- ”Mijortsa” <azis.astrojim@surabaya.di.blankon.in>  Fri, 20 Mar 2015 22:07:08 +0700
+
 blankon-desktop (10.00.25) tambora; urgency=medium
 
   * Add package : lightdm-webkit-greeter and manokwari-theme-greeter
