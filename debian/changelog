@@ -1,3 +1,9 @@
+blankon-desktop (10.00.27) tambora; urgency=low
+
+  * Added: Tebu icon theme 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 26 Mar 2015 10:16:44 +0700
+
 blankon-desktop (10.00.26) tambora; urgency=medium
 
   * Remove mutter
