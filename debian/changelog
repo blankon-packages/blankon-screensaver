@@ -1,3 +1,9 @@
+blankon-desktop (10.00.31) tambora; urgency=low
+
+  * Drop blankon-symlink 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 17 May 2015 05:27:47 +0700
+
 blankon-desktop (10.00.30) tambora; urgency=low
 
   * Drop Xterm
