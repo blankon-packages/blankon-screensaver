@@ -1,3 +1,10 @@
+blankon-desktop (10.00.33) tambora; urgency=medium
+
+  * Drop nautilus-open-terminal, nautilus have a library for open-terminal
+  * Add openssh-server
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sun, 17 May 2015 18:52:43 +0700
+
 blankon-desktop (10.00.32) tambora; urgency=medium
 
   * Add:
