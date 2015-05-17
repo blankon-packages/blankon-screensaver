@@ -1,3 +1,12 @@
+blankon-desktop (10.00.32) tambora; urgency=medium
+
+  * Add:
+    - fonts-cantarell
+    - fonts-aurulent-sans
+    - nautilus-open-terminal
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 17 May 2015 06:57:31 +0700
+
 blankon-desktop (10.00.31) tambora; urgency=low
 
   * Drop blankon-symlink 
