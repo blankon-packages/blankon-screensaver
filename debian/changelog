@@ -1,3 +1,9 @@
+blankon-desktop (10.00.34) tambora; urgency=low
+
+  * Drop to kernel linux-image-3.16.0-4 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 19 May 2015 03:48:05 +0700
+
 blankon-desktop (10.00.33) tambora; urgency=medium
 
   * Drop nautilus-open-terminal, nautilus have a library for open-terminal

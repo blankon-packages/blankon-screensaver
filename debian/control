@@ -17,7 +17,7 @@ Description: The BlankOn desktop system
 
 Package: blankon-kernel-headers
 Architecture: i386 amd64
-Depends: linux-headers-4.0.0-1-amd64 [amd64], linux-headers-4.0.0-1-686-pae [i386], linux-image-4.0.0-1-amd64 [amd64], linux-image-4.0.0-1-686-pae [i386]
+Depends: linux-headers-3.16.0-4-686-pae [amd64], linux-headers-3.16.0-4-686-pae [i386], linux-image-3.16.0-4-amd64 [amd64], linux-image-3.16.0-4-686-pae [i386]
 Description: The BlankOn kernel
  This package depends on all of the packages in the BlankOn kernel headers desktop system
  .
