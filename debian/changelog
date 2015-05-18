@@ -1,3 +1,11 @@
+blankon-desktop (10.00.37) tambora; urgency=low
+
+  * Add 
+    -  ntfs-3g
+    -  ntfsprogs 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Tue, 19 May 2015 05:49:35 +0700
+
 blankon-desktop (10.00.36) tambora; urgency=low
 
   * Drop Temporary Please Add again if fix dependency 
