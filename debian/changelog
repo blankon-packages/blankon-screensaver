@@ -1,3 +1,9 @@
+blankon-desktop (10.00.35) tambora; urgency=medium
+
+  * Added back xfce4-power-manager, xfce4-power-manager-data
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 18 May 2015 22:07:22 +0700
+
 blankon-desktop (10.00.34) tambora; urgency=low
 
   * Drop to kernel linux-image-3.16.0-4 
