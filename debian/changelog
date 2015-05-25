@@ -1,3 +1,10 @@
+blankon-desktop (10.00.40) tambora; urgency=medium
+
+  * Drop lightd-webkit-greeter, manokwari-theme-greeter
+  * Added xorg
+
+ -- Mahyuddin <yudi.al@gmail.com>  Mon, 25 May 2015 13:57:17 +0700
+
 blankon-desktop (10.00.39) tambora; urgency=low
 
   * Drop:
